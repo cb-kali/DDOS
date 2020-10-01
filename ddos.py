@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 import socket
 import threading
+import os
 
+os.system("clear")
 print("""                                                        
 DDDDDDDDDDDDD                            SSSSSSSSSSSSSSS 
 D::::::::::::DDD                       SS:::::::::::::::S
@@ -20,7 +22,7 @@ D:::::::::::::::DD   o:::::::::::::::oS::::::SSSSSS:::::S
 D::::::::::::DDD      oo:::::::::::oo S:::::::::::::::SS 
 DDDDDDDDDDDDD           ooooooooooo    SSSSSSSSSSSSSSS   
 
-print("")                                                         """)
+                                                       """)
 print("Created by cbkali")
 
 
