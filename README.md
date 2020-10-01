@@ -13,3 +13,7 @@
       Enter source ip:
 
       Enter port number:
+
+* How to stop attack
+
+      ctrl + z              
