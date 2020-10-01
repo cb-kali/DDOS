@@ -3,6 +3,8 @@
 * How to install
 
       git clone https://github.com/cb-kali/DDOS.git
+      
+      cd DDOS
 
 * How to use ddos.py
 
