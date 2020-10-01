@@ -6,7 +6,7 @@
 
 * How to use ddos.py
 
-    python ddos.py
+      python ddos.py
 
       Enter target ip:
 
